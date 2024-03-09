@@ -1,0 +1,2 @@
+int num = int(random(1,10));
+println(num);

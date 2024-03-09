@@ -1,0 +1,19 @@
+//exercício 6
+
+double h = 1.60;
+String sexo = "m";
+double res;
+
+if (sexo == "m") {
+  res = (72.7 * h) - 58;
+  println("Peso Ideal =" ,res);
+}
+
+else if (sexo == "f") {
+  res = (62.1 * h) - 44.7;
+  println("Peso Ideal =" ,res);
+}
+
+else {
+  println("Valor inválido");
+}

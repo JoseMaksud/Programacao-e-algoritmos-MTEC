@@ -1,0 +1,24 @@
+double n1=10;
+double n2=20;
+double res;
+string operador="+";
+
+if (operador == "+"){
+	res=n1+n2;
+	println("Resultado=",res);
+}
+
+if (operador == "-"){
+	res=n1-n2;
+	println("Resultado=",res);
+}
+
+if (operador == "/"){
+	res=n1/n2;
+	println("Resultado=",res);
+}
+
+if (operador == "*"){
+	res=n1*n2;
+	println("Resultado=",res);
+}

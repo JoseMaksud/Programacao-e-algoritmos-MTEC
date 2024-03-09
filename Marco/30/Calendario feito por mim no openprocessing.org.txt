@@ -1,0 +1,53 @@
+int n1=1;
+
+if (n1==1){
+	println("Janeiro");
+}
+
+if (n1==2){
+	println("Fevereiro");
+}
+
+if (n1==3){
+	println("Março");
+}
+
+if (n1==4){
+	println("Abril");
+}
+
+if (n1==5){
+	println("Maio");
+}
+
+if (n1==6){
+	println("Junho");
+}
+
+if (n1==7){
+	println("Julho");
+}
+
+if (n1==8){
+	println("Agosto");
+}
+
+if (n1==9){
+	println("Setembro");
+}
+
+if (n1==10){
+	println("Outubro");
+}
+
+if (n1==11){
+	println("Novembro");
+}
+
+if (n1==12){
+	println("Dezembro");
+}
+
+else{
+	println("Mes inválido");
+}

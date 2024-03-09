@@ -1,0 +1,12 @@
+int n1 = 1;
+int res;
+
+if (n1 > 0) {
+  n1=n1 * 2;
+}
+
+else if (n1 < 0) {
+  n1=n1 * 3;
+}
+
+println(n1);

@@ -1,0 +1,10 @@
+var x = 20;
+var y = 20;
+var ressoma = x + y;
+var ressub = x - y;
+var resmult = x * y;
+var resdiv = x / y;
+console.log("A soma dos valores é: ", ressoma);
+console.log("A subtração dos valores é: ", ressub);
+console.log("A multiplicação dos valores é: ", resmult);
+console.log("A divisão dos valores é: ", resdiv);

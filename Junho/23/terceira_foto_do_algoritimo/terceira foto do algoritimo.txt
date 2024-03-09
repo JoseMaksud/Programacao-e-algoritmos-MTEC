@@ -1,0 +1,19 @@
+int cont = 1000;
+
+int teste1 = 0;
+
+int teste2 = 0;
+
+while (cont <= 5000) {
+  if (cont % 10 == 0) {
+    if (cont % 22 == 0) {
+      teste1++;
+      teste2 = teste2 + cont;
+    }
+  }
+  cont++;
+}
+
+println(teste1);
+println(teste2);
+      

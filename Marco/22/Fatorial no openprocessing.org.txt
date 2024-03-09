@@ -1,0 +1,7 @@
+double fat=1;
+double num=4;
+while(num>0){
+	fat=fat*num;
+	num=num-1;
+}
+println("fatorial=",fat);

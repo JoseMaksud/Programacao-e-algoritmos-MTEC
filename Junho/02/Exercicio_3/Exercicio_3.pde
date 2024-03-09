@@ -1,0 +1,12 @@
+//ex.3
+
+double soma = 0;
+double num = 0;
+
+for (int i = 1;i <= 20;i++) {
+  num = int(random(1,10));
+  println(i,"º = ",num);
+  soma = soma + num;  
+}
+println("===============================");
+println("A soma dos 20 valores é igual a", soma);

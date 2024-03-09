@@ -1,0 +1,9 @@
+int n1=1;
+int n2=5;
+int soma;
+
+while(n1<=n2){
+	soma=soma+n1;
+	n1=n1+1;
+}
+println("soma=",soma);

@@ -1,0 +1,13 @@
+1 - Criar uma função que converta uma temperatura de Fahrenheit para Celsius.  (n - 32) / 1.8;
+
+2 - Criar uma função que converta uma temperatura de Celsius para Fahrenheit.  n * 1.8 + 32 
+
+3 - Criar uma função para calcular a porcentagem de um número
+
+4 - Calcular a soma dos números de um array utilizando para isso uma função
+
+5 - Calcular a média de todos os números de um array utilizando para isso uma função
+
+6 - Calcular a soma de todos os números negativos de um array utilizando para isso uma função
+
+7 - Calcular a soma de todos os números ímpares de um array utilizando para isso uma função

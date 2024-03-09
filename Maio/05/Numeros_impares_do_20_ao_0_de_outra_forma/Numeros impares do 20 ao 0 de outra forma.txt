@@ -1,0 +1,7 @@
+int inicio = 19;
+int fim = 1;
+
+while (inicio >= fim) {  
+  println(inicio);  
+  inicio = inicio - 2;
+}

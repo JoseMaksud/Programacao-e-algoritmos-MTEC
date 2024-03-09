@@ -1,0 +1,9 @@
+int num=5;
+int cont=0;
+int res;
+
+while (cont<=10){
+	res=cont*num;
+	println(num,"x",cont,"=",res);
+	cont=cont+1;
+}

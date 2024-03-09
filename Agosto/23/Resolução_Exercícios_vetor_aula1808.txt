@@ -1,0 +1,34 @@
+var vetor = [5,10,25,30,45,50];
+
+var mult = vetor[0] * vetor[5];
+console.log(mult);
+
+var subt = vetor[5] - vetor[0];
+console.log(subt);
+
+var quad = vetor[2] * vetor[2];
+console.log(quad);
+
+// var quad vetor[2] **2;
+
+var cubo = vetor[3] * vetor[3] * vetor[3];
+console.log(cubo);
+
+var vetor = [5,10,25,30,45,50];
+
+var soma = 0;
+var somaPar = 0;
+var somaImpar = 0;
+
+for (var i = 0; i <= vetor.length-1;i++){
+    soma = soma + vetor[i];
+    if (vetor[i] % 2 == 0){
+       somaPar = somaPar + vetor[i];
+    }
+    else {
+        somaImpar = somaImpar + vetor[i];
+    }
+}
+console.log("Soma total = "+ soma);
+console.log("Soma Pares = "+ somaPar);
+console.log("Soma Ímpares = "+ somaImpar);

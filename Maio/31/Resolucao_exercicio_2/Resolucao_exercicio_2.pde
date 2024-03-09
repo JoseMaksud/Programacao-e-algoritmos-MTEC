@@ -1,0 +1,16 @@
+//ex.2
+
+int inicio = 50;
+
+int fim = 200; 
+
+int res = 0;
+
+while (inicio <= fim) {
+  if (inicio % 2 == 0){
+    res = res + inicio;
+  }
+  inicio++;
+}
+
+println("A soma pares entre 50 e 200 é",res);

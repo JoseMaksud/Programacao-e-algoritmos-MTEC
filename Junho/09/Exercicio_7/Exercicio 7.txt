@@ -1,0 +1,11 @@
+//ex.7
+
+int num = 1000;
+
+
+while (num <= 2000) {
+  if (num % 15 == 0) {
+    println(num);
+  }
+  num++;
+}

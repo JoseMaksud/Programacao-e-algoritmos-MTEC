@@ -1,0 +1,9 @@
+int inicio = 1;
+int fim = 5;
+int quadrado = 1;
+
+while (inicio <= fim) {
+  quadrado = inicio * inicio;
+  println("Quadrado de ", inicio, " = ",quadrado);
+  inicio++; //soma mais um na variavel
+}

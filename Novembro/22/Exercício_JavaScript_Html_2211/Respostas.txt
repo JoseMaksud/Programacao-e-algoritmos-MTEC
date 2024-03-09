@@ -1,0 +1,11 @@
+ex-1: exibe um alerta para o usuário e logo depois uma mensagem
+
+ex-2: exibe uma caixa em que você escolhe se gosta do curso ou não
+
+ex-3: pergunta ao usuário qual é o seu nome e depois o exibe
+
+ex-4: depois de um determinado tempo aparece uma mensagem 
+
+ex-5: depois de um determinado tempo aparece um contador que vai aumentando
+
+ex-6: um botão que te direciona para um link

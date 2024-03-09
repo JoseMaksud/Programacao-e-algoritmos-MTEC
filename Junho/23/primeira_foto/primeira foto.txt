@@ -1,0 +1,16 @@
+int cont = 0;
+int teste1 = 0;
+int teste2 = 0;
+
+while (cont <= 100) {
+  if (cont % 2 == 0) {
+    teste1++;
+  }
+  else {
+    teste2 = teste2 + cont;
+  }
+  cont++;
+}
+
+println(teste1);
+println(teste2);

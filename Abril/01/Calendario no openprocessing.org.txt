@@ -1,0 +1,53 @@
+int mes=1;
+
+if (mes==1){
+	println("Janeiro");
+}
+
+else if (mes==2){
+	println("Fevereiro");
+}
+
+else if (mes==3){
+	println("Março");
+}
+
+else if (mes==4){
+	println("Abril");
+}
+
+else if (mes==5){
+	println("Maio");
+}
+
+else if (mes==6){
+	println("Junho");
+}
+
+else if (mes==7){
+	println("Julho");
+}
+
+else if (mes==8){
+	println("Agosto");
+}
+
+else if (mes==9){
+	println("Setembro");
+}
+
+else if (mes==10){
+	println("Outubro");
+}
+
+else if (mes==11){
+	println("Novembro");
+}
+
+else if (mes==12){
+	println("Dezembro");
+}
+
+else{
+	println("Mês inválido");
+}

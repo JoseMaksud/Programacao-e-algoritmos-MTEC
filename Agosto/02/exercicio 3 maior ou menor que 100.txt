@@ -1,0 +1,16 @@
+var n1 = 10;
+
+if (n1 > 100) {
+	console.log(n1+ " é maior que 100");
+}
+
+else if (n1 < 100) {
+	console.log(n1+ " é menor que 100");
+}
+
+else {
+	console.log("Valores idênticos");
+}
+
+
+

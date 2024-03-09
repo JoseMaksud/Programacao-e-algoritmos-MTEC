@@ -1,0 +1,12 @@
+int n1 = 6;
+int n2 = 23;
+
+int soma = n1 + n2;
+
+if (soma % 2 == 0){
+	println(soma," é par !");
+}
+else
+{
+	println(soma," é ímpar!");
+}

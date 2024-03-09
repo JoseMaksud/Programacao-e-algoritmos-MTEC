@@ -1,0 +1,18 @@
+// fazer um algoritimo que verifica se um número é primo ou não
+
+int num=5;
+int cont=1;
+int cprimo=0;
+
+while(cont<=num){
+	if (num % cont==0){
+		cprimo=cprimo+1;
+	}
+	cont=cont+1;
+}
+if (cprimo==2){
+	println(num,"é primo!");
+}
+	else{
+		println(num,"não é primo!");
+	}

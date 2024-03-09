@@ -1,0 +1,10 @@
+1 - Fazer um vetor de 6 posições com números inteiros e realize:
+
+ a) a multiplicação do primeiro pelo último;
+ b) a subtração do úlitmo pelo primeiro;
+ c) o quadrado do terceiro elemento;
+ d) o cubo do quarto elemento;  
+
+ e) soma de todos os elementos
+ f) a soma de todos os elementos pares;
+ g) a soma de todos os elementos ímpares;

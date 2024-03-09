@@ -1,0 +1,8 @@
+int n1 = 5;
+
+if(n1 % 2 == 0){
+	println(n1,"é par!");
+}
+else{
+	println(n1,"é ímpar");
+}
